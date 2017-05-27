@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    background-color: powderBlue;
+}
+
+body {
+    text-align: center;
+    font-family: "Arial";
+}
+
+h1 {
+    color:red;
+}
+
+background {
+    background: -moz-linear-gradient(red, yellow);
+}
+
+#number {
+    font-weight: bold;
+}
